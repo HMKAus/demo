@@ -25,13 +25,6 @@
         "totalAmount": "250",
         "PONumber": "123456"
       },
-      {
-        "productCode": "2826",
-        "quantity": "1",
-        "unitAmount": "250",
-        "totalAmount": "250",
-        "PONumber": "123456"
-      }
     ]
   }
 }
